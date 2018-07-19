@@ -1,1 +1,9 @@
-# courses-marbug-netbeans
+# Courses > NetBeans #
+
+## TODO ##
+
+TODO
+
+## License ##
+
+[Read here](LICENSE)
